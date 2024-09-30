@@ -1,6 +1,6 @@
- <h2>👋 Hi, I’m Xisco Rosselló</h2>
-- 🌱 I’m currently learning Web application development at CIFP Francesc de Borja Moll
-- 📫 How to reach me frossellojeronimo@cifpfbmoll.eu
+ <h1>👋 Hi, I’m Xisco Rosselló</h1>
+ <p>🌱 I’m currently learning Web application development at CIFP Francesc de Borja Moll</p>
+<p>📫 How to reach me: frossellojeronimo@cifpfbmoll.eu</p>
 
 <!---
 XiscoRossello/XiscoRossello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
