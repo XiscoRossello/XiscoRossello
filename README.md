@@ -1,6 +1,6 @@
  <h1>👋 Hi, I’m Xisco Rosselló</h1>
  <p>🌱 I’m currently learning Web application development at CIFP Francesc de Borja Moll</p>
- <p>👨🏻‍💻 Im' currently working at Air Europa✈️</p>
+ <p>👨🏻‍💻 I'm currently working at Air Europa✈️</p>
 <p>📫 How to reach me: frossellojeronimo@cifpfbmoll.eu</p>
 
 <!---
